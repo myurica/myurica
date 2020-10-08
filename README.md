@@ -10,6 +10,13 @@ I love open source. I am not a heavy maintainer of any large libraries, but I re
 
 ---
 
+
+## My Stats
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=myurica&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
+
+
 <!--
 **myurica/myurica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
