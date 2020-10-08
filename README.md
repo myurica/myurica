@@ -3,6 +3,13 @@ Hey there 👋, Myurica Here
 <a href="https://twitter.com/myuricadeloish"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/albertdeloish"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
+
+### Boy Scout Rule
+
+I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good example.
+
+---
+
 <!--
 **myurica/myurica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
